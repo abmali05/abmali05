@@ -1,5 +1,7 @@
 ### Hi there, I am Abu Bakar Mohammad Ali 👋
 
+- 📫 How to reach me: abmali05@gmail.com
+
 <!--
 **abmali05/abmali05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
