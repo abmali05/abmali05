@@ -1,6 +1,7 @@
 ### Hi there, I am Abu Bakar Mohammad Ali 👋
 
-### I am a Front End Developer.  My expertise areas are Javascript, ReactJS, NodeJS, ExpressJS, Firebase, JWT, MongoDB etc.
+### I am a Front End Web Developer.  
+### My expertise areas are Javascript, ReactJS, NodeJS, ExpressJS, Firebase, JWT, MongoDB etc.
 
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 Learning new technologies is my passion
