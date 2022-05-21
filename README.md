@@ -1,5 +1,7 @@
 ### Hi there, I am Abu Bakar Mohammad Ali 👋
 
+- 🔭 I’m currently working on Front End Web Development
+- 🌱 Learning new technologies is my passion
 - 📫 How to reach me: abmali05@gmail.com
 
 <!--
