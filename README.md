@@ -1,6 +1,6 @@
 ### Hi there, I am Abu Bakar Mohammad Ali 👋
 
-### I am a Front End Web Developer.  
+### I am a MERN Stack Developer.  
 ### My expertise areas are Javascript, ReactJS, NodeJS, ExpressJS, Firebase, JWT, MongoDB etc.
 
 - 🔭 I’m currently working on Front End Web Development
